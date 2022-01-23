@@ -1,7 +1,7 @@
 # Blog Microservices
 
 ## Tech Stack
-### Nodejs, Express.js - Reactjs - Docker - Kubernetes
+### Nodejs, Expressjs - Reactjs - Docker - Kubernetes
 
 ## Disclaimer
 #### Not Redy for Production
